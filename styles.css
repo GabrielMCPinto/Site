@@ -42,7 +42,7 @@ header {
   text-decoration: none; /* Eliminamos o sublinhado da tag a (link) */
 }
 .links a:hover {
-  color: var(--color-green); /* Definimos uma cor verde para o menu quando movemos 
+  color: var(--color-line); /* Definimos uma cor verde para o menu quando movemos 
                        o mouse sobre ele */
   transition: color 200ms; /* Tempo da transição para a mudança de cor */
 }                                                       
